@@ -60,7 +60,7 @@ Note: For previous versions of Ubuntu `libmlpack-dev` is not on the required ver
 
 ## Detailed Documentations
 
-@ref examples
+\subpage examples
 
 
 ## Contributions
